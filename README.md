@@ -79,10 +79,7 @@ Automated data engineering pipeline that collects, processes, and stores weather
 5. Processed data stored in separate S3 bucket
 
 ## Setup Instructions
-[Include your setup steps]
-
-## Sample Output
-[Include a sample JSON output]
+Follow the SETUP_GUIDE for step-by-step instructions.
 
 ## Future Improvements
 - Add data visualization dashboard
@@ -94,4 +91,5 @@ Automated data engineering pipeline that collects, processes, and stores weather
 ## Author
 Eduardo Arriaga Alejandre
 [Your LinkedIn]
+
 [Your GitHub]
