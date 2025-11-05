@@ -90,6 +90,4 @@ Follow the SETUP_GUIDE for step-by-step instructions.
 
 ## Author
 Eduardo Arriaga Alejandre
-[Your LinkedIn]
 
-[Your GitHub]
