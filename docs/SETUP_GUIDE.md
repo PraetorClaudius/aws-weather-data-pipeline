@@ -1,24 +1,3 @@
-STEP 0: Safety First (Do This FIRST!)
-Set Up Billing Alarm
-
-Log into AWS Console
-Go to CloudWatch → Alarms → Billing
-Create alarm:
-
-Threshold: $5 USD
-Email: your email
-Confirm the subscription email you receive
-
-Enable Free Tier Alerts
-
-Go to Billing Dashboard
-Click Billing Preferences
-Enable "Receive Free Tier Usage Alerts"
-Save preferences
-
-✅ CHECKPOINT: You should receive a confirmation email. Don't proceed until this is done!
-
-
 STEP 1: Project Setup & Planning
 1.1 Get Your Free Weather API Key
 
@@ -220,4 +199,5 @@ Create a Python script locally to analyze your data:
 
 Code in analysis folder
     
+
 Run this script after a few days to see your data trends
